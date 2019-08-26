@@ -1,0 +1,13 @@
+int: teacher = 3;
+var 3..teacher : x1;
+var 2..teacher : x2;
+var 1..teacher : x3;
+var 1..teacher : x4;
+var 2..teacher : x5;
+constraint x1 != x2;
+constraint x3 != x2;
+constraint x4 != x2;
+constraint x3 != x4;
+constraint x3 != x4;
+constraint x4 != x5;
+solve satisfy;

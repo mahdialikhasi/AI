@@ -1,1 +1,1 @@
-IUT
+#IUT artificial intelligence Course

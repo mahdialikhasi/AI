@@ -1,0 +1,3 @@
+Read:
+
+Russell & Norvig (3rd ed.) Section 6.5 - The Structure of Problems

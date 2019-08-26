@@ -1,0 +1,3 @@
+Read:
+
+Russell & Norvig (3rd ed.) Subsection 17.5.1 - "Single-move games"

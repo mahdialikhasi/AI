@@ -1,0 +1,5 @@
+Read:
+
+Russell & Norvig (3rd ed.) Section 3.6 - Heuristic Functions
+Russell & Norvig (3rd ed.) Subsection 3.5.2 - A* search: Minimizing the total estimated solution cost
+Russell & Norvig (3rd ed.) Section 6.1 - Defining Constraint Satisfaction Problems

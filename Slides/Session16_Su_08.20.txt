@@ -1,0 +1,4 @@
+Read:
+
+Russell & Norvig (3rd ed.) Section 6.5 - The Structure of Problems
+Russell & Norvig (3rd ed.) Subsection 7.6.1 - A complete backtracking algorithm

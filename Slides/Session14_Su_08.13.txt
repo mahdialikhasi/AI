@@ -1,0 +1,4 @@
+Read:
+
+Russell & Norvig (3rd ed.) Section 6.3 - Backtracking Search for CSPs
+Russell & Norvig (3rd ed.) Section 6.4 - Local Search for CSPs
